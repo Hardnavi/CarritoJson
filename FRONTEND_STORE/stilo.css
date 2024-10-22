@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(93, 5, 175);
+  margin: 0;
+}
+.nosotros {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* h1{
+    text-align: center;
+    padding: 0%;
+}
+.cabecera{
+    color: yellow;
+} */
+img {
+  text-align: center;
+}
+.cabecera {
+  color: yellow;
+}
+h3 {
+  text-align: center;
+  background-color: rgb(131, 2, 120);
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: yellow;
+  text-align: center;
+}
+.flex-container1 {
+  display: flex;
+  justify-content: center;
+}
+.caja {
+  width: 10rem;
+  height: 13rem;
+  background-color: purple;
+  text-align: center;
+  margin: 1rem;
+  /* font-size: 3rem; */
+  color: aliceblue;
+}
+/* img{
+    width: 10rem;
+    height: 10rem;
+} */
+.caja1 {
+  width: 22rem;
+  height: 13rem;
+  background-color: purple;
+  text-align: center;
+  margin: 1rem;
+  color: aliceblue;
+}
+.flex-container2 {
+  display: flex;
+  justify-content: center;
+}
+.pie {
+  text-align: center;
+  background-color: rgb(117, 2, 146);
+  color: yellow;
+  /* color: rgb(213, 243, 43); */
+  padding: 0.1rem;
+}
